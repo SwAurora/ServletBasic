@@ -14,7 +14,7 @@
         <input type="password" name="pwd">
     </label><br>
     <input type="submit">
-</form><br>
+</form>
 <a href="/Join.do">회원가입</a>
 </body>
 </html>
